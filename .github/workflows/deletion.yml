@@ -1,4 +1,4 @@
-name: Remove Test Environment
+name: Destroying Feature Environment
 on:
   pull_request:
     branches:
